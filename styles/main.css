@@ -333,6 +333,14 @@ footer div {
     font-size: 1rem;
 }
 
+.credit a {
+    color: orangered;
+}
+
+.credit a:hover {
+    color: black;
+}
+
 .connect {
     display: flex;
     flex-direction: column;
