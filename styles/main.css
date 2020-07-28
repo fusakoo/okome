@@ -264,6 +264,7 @@ section div {
     background-clip: padding-box;
     border-radius: 2px;
     border: 2px transparent;
+    margin: 0.5rem 0;
 }
 
 @media (max-width: 650px) {
@@ -283,7 +284,7 @@ section div {
     display: inline-block;
     padding: 0.35rem 2rem;
     border: 0.1rem solid #efefef;
-    margin: 0 0.3rem 0.3rem 0;
+    margin: 1rem 0.3rem 0.3rem 0;
     border-radius: 0.12rem;
     box-sizing: border-box;
     text-decoration: none;
